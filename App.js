@@ -15,7 +15,10 @@ const userDatas = require('./routes/Register')
 connectdatabase();
 
 app.use(express.json());
-app.use(cors());
+app.use(cors({
+    origin:"https://reliancedigitalproject.netlify.app",
+    credentials:true
+}));
 app.use('/api/v1/',products);
 app.use('/api/v1/',orders);
 app.use('/user',userDatas)
