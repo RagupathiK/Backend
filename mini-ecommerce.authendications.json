@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "67f4f209c50e79a30dde9486"
+  },
+  "Name": "Ragu",
+  "Email": "ragu@gmail.com",
+  "UserName": "ragu123",
+  "PassWord": "nnnsjnsivn",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f50592c50e79a30dde953b"
+  },
+  "Name": "Raguggg",
+  "Email": "raguiii@gmail.com",
+  "UserName": "hhhhragu123",
+  "PassWord": "nnnsjccccnsivn",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f50b61a0f9c75720d59fb9"
+  },
+  "Name": "ragu",
+  "Email": "ragu@gmail.com",
+  "UserName": "ragu212",
+  "PassWord": "123456789",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f6408eb8fc273f86c6441d"
+  },
+  "Name": "ssss",
+  "Email": "uuuu",
+  "UserName": "eeee",
+  "PassWord": "xxxxxxxx",
+  "__v": 0
+}]

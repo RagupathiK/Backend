@@ -1,0 +1,291 @@
+[{
+  "_id": {
+    "$oid": "67efbd957c187f6f26d00847"
+  },
+  "name": "Oppo K12x 5G",
+  "price": 12999,
+  "description": "Oppo K12x 5G 128 GB, 6 GB RAM, Breeze Blue, Mobile Phone.",
+  "keyfeatures": [
+    {
+      "feature": "6 GB RAM, 128 GB Internal Memory ,16.94 cm (6.67 inch), 1604 × 720 Resolution, 120Hz FHD Display ,32 MP Main Camera, 2 MP ,ColorOS 14.0 ,8 MP Front Camera ,MTK Dimensity 6300 ,5100 mAh ,3.5 mm Audio Jack "
+    }
+  ],
+  "ratings": 4.5,
+  "images": [
+    {
+      "image": "/images/oppo k12x 5g.png"
+    },
+    {
+      "image": "/images/google pixel 7.png"
+    }
+  ],
+  "category": "Mobile Phones",
+  "seller": "Amazon",
+  "stock": "4",
+  "numOfReviews": 15,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67efbd957c187f6f26d00848"
+  },
+  "name": "Google Pixel 7",
+  "price": 28999,
+  "description": "Google Pixel 7 128 GB, 8 GB RAM, Lemongrass, Mobile Phone.",
+  "keyfeatures": [
+    {
+      "feature": "8 GB RAM, 128 GB Internal Memory ,16.00 cm (6.3 inch), 1080 x 2400 Resolution, 90Hz FHD+ OLED Display ,50 MP Main Camera, 12 MP , 10.8 MP Front Camera , Google Tensor G2, 4270 mAh"
+    }
+  ],
+  "ratings": 3.5,
+  "images": [
+    {
+      "image": "/images/google pixel 7.png"
+    }
+  ],
+  "category": "Mobile Phones",
+  "seller": "Flipkart",
+  "stock": 9,
+  "numOfReviews": 5,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67efbd957c187f6f26d00849"
+  },
+  "name": "LG 1.5 Ton 5 Star",
+  "price": 49990,
+  "description": "LG 1.5 Ton 5 Star Split AC, US-Q19KWZE (Dual Inverter Compressor, Cools at 52 Degree C, 100 Percent Copper Condensor, Fan Speed -6 Steps)",
+  "keyfeatures": [
+    {
+      "feature": "Dual Inverter Compressor ,Cools at 52 Degree C ,100 percent Copper Condensor ,Fan Speed - 6 Steps"
+    }
+  ],
+  "ratings": 2,
+  "images": [
+    {
+      "image": "/images/LG 1.5 ton.png"
+    }
+  ],
+  "category": "Assoceries",
+  "seller": "Flipkart",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67efbd957c187f6f26d0084a"
+  },
+  "name": "Haier 1.6 Ton 5",
+  "price": 46990,
+  "description": "Haier 1.6 Ton 5 Star 7 in 1 Convertible Inverter Split AC, HSU19K-PYFR5BN (Voice Control & Wi-Fi, Triple Inverter+, 100% Grooved Copper, Frost Self Clean, Supersonic Cooling in 10 Secs, 2024 launch)",
+  "keyfeatures": [
+    {
+      "feature": "Voice Control and Wi-Fi ,HEXA Inverter ,Frost Self Clean ,Intelli Convertible 7-in-1"
+    }
+  ],
+  "ratings": 4,
+  "images": [
+    {
+      "image": "/images/haier ac 1.6 ton.png"
+    }
+  ],
+  "category": "Assoceries",
+  "seller": "Flipkart",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67efbd957c187f6f26d0084b"
+  },
+  "name": "Samsung 419 L",
+  "price": 53990,
+  "description": "Samsung 419 L 2 Star Frost Free Double Door Refrigerator, Ez Clean Steel - Real Stainless, RT45DG6A2BSLHL",
+  "keyfeatures": [
+    {
+      "feature": "SmartThings AI Energy Mode ,SmartThings Home Care ,Convertible 5in1 ,Twin Cooling Plus "
+    }
+  ],
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/samsung 419 l.png"
+    }
+  ],
+  "category": "Assoceries",
+  "seller": "Flipkart",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67efbd957c187f6f26d0084c"
+  },
+  "name": "LG 322 Liters",
+  "price": 37990,
+  "description": "LG 322 litres 2 Star Frost Free Double Door Refrigerator, Shiny Steel GL-S342SPZY",
+  "keyfeatures": [
+    {
+      "feature": "Convertible ,Multi Air Flow ,Smart Diagnosis ,Toughened Glass Shelves "
+    }
+  ],
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/Lg 322 liters.png"
+    }
+  ],
+  "category": "Assoceries",
+  "seller": "Flipkart",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67efbd957c187f6f26d0084d"
+  },
+  "name": "Sony BRAVIA 3 Series",
+  "price": 111990,
+  "description": "Sony BRAVIA 3 Series 164 cm (65 inches) 4K Ultra HD Smart LED Google TV, K-65S30, Black",
+  "keyfeatures": [
+    {
+      "feature": "Preloaded Apps - Apple TV, Sony Pictures Core, Prime Video, Netflix, YouTube, Sonly LIV ,Resolution - 4K Ultra HD (3840 x 2160) ,Connectivity - 4 HDMI ports to connect set top box, Blu Ray players, gaming console & 2 USB ports to connect hard drives and other USB devices ,Sound - 20 Watts Output 2 channel "
+    }
+  ],
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/sony bravia 3 series.png"
+    }
+  ],
+  "category": "Assoceries",
+  "seller": "Flipkart",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67efbd957c187f6f26d0084e"
+  },
+  "name": "Lenovo IdeaPad",
+  "price": 55999,
+  "description": "Lenovo IdeaPad Slim3 8HIN Standard Laptop (Intel Core i5-12450H/16 GB/512 GB SSD/Intel UHD Graphics/Windows 11 Home/MSOffice/Full HD), 39.6 cm (15.6 Inch), Arctic Grey",
+  "keyfeatures": [
+    {
+      "feature": "Memory: 16 GB RAM ,Storage: 512 GB ,Processor: 12 Gen Core i5-12450H ,Display: 15.6 inch-39.6 cm ,Operating System - Windows Office Home & Student 2021"
+    }
+  ],
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/lenovo ideapad slim 3.png"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Ebay",
+  "stock": 9,
+  "numOfReviews": 12,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67efbd957c187f6f26d0084f"
+  },
+  "name": "Redmi 3 Pro ",
+  "price": 2699,
+  "description": "Redmi 3 Pro True Wireless Earbuds with Smart In-Ear Detection, Dual Drivers, upto 30 hrs of playtime, Bluetooth 5.2, Smart In-Ear Detection, Dual Drivers, Low Latency, Sweat & Rain resistant, Blue",
+  "keyfeatures": [
+    {
+      "feature": "High-Definition Wireless Audio ,Qualcomm with aptX Adaptive ,86 ms Low Latency ,Dual Drivers - Dynamic + Balanced Armature ,Up to 30 Hours Playback time ,MIUI Pop-up Window ,Bluetooth 5.2 Connectivity ,Smart In-Ear Detection"
+    }
+  ],
+  "ratings": 5,
+  "images": [
+    {
+      "image": "/images/redmi 3 pro.png"
+    }
+  ],
+  "category": "Headphones",
+  "seller": "Amazon",
+  "stock": 4,
+  "numOfReviews": 20,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67efbd957c187f6f26d00850"
+  },
+  "name": "Noise NoiseFit Voyage",
+  "price": 12999,
+  "description": "Noise NoiseFit Voyage India's first 4G eSIM calling Smart Watch , 3.5 cm (1.4 inches) Retina AMOLED Display , Bluetooth Calling, Functional Crown , GPS , Upto 7 Day Battery, IP68 Water Resistance , Jet Black",
+  "keyfeatures": [
+    {
+      "feature": "India's First 4G eSIM Calling Smartwatch: Stay ahead with India's first 4G eSIM calling smartwatch, allowing you to make calls and stay connected without needing your smartphone. ,3.5 cm (1.4 inch) Retina AMOLED Display: Experience sharp and vibrant visuals with the 3.5 cm (1.4 inch) Retina AMOLED display, offering an immersive viewing experience. ,Functional Crown: Navigate your smartwatch effortlessly with the functional crown, providing intuitive control. ,Bluetooth Calling: Seamlessly connect with Bluetooth calling, enabling you to make and receive calls directly from your wrist. ,IP68 Water Resistance: With an IP68 rating, your smartwatch is protected against dust and water, making it suitable for various environments and activities. ,Up to 7 Days Battery Life: Enjoy up to 7 days of battery life, ensuring your smartwatch is always ready for use throughout the week. ,OBuilt-in GPS: Track your routes accurately with the built-in GPS, ensuring precise navigation and location data for your outdoor activities."
+    }
+  ],
+  "ratings": 3,
+  "images": [
+    {
+      "image": "/images/noise voyage smart watch.png"
+    }
+  ],
+  "category": "Smart Watch",
+  "seller": "Ebay",
+  "stock": "4",
+  "numOfReviews": 9,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67efbd957c187f6f26d00851"
+  },
+  "name": "Apple iPad Air",
+  "price": 99900,
+  "description": "Apple iPad Air 2024 27.59 cm (11 inch) Wi-Fi + Cellular Tablet, 512 GB, Blue",
+  "keyfeatures": [
+    {
+      "feature": "Internal Storage: 512 GB ,Screen Size: 27.59 cm (11 inch) ,M2 Chipset ,Liquid Retina Display ,P3 Wide Colour ,12 MP Wide Camera 4K Video ,Landscape 12 MP Ultra Wide Front Camera ,Anti-reflective Coating ,Supports Magic Keyboard ,Supports Apple Pencil (USB-C), Apple Pencil Pro ,True Tone"
+    }
+  ],
+  "ratings": 3,
+  "images": [
+    {
+      "image": "/images/apple ipad air.png"
+    }
+  ],
+  "category": "IPad",
+  "seller": "Ebay",
+  "stock": 6,
+  "numOfReviews": 9,
+  "reviews": []
+},
+{
+  "_id": {
+    "$oid": "67efbd957c187f6f26d00852"
+  },
+  "name": "Bosch 7 Kg Top Loading",
+  "price": 23490,
+  "description": "Bosch 7 Kg Top Loading Fully Automatic with Washing Machine with One-touch Start, Series 4 WOE704S1IN, Silver",
+  "keyfeatures": [
+    {
+      "feature": "Ecosilence Drive ,One Touch Start ,Soft Closing Lid ,8 Wash Programs"
+    }
+  ],
+  "ratings": 3,
+  "images": [
+    {
+      "image": "/images/bosch washing-machine.png"
+    }
+  ],
+  "category": "Assoceries",
+  "seller": "Flipkart",
+  "stock": 6,
+  "numOfReviews": 9,
+  "reviews": []
+}]
